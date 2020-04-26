@@ -1,0 +1,19 @@
+{
+	"TextureSize": "75",
+	"BlackSquare": "square/black_square",
+	"WhiteSquare": "square/white_square",
+	"BlackSquareLit": "square/black_square_lit",
+	"WhiteSquareLit": "square/white_square_lit",
+	"BlackPawn": "chess_piece/black_pawn",
+	"BlackKnight": "chess_piece/black_knight",
+	"BlackBishop": "chess_piece/black_bishop",
+	"BlackRook": "chess_piece/black_rook",
+	"BlackQueen": "chess_piece/black_queen",
+	"BlackKing": "chess_piece/black_king",
+	"WhitePawn": "chess_piece/white_pawn",
+	"WhiteKnight": "chess_piece/white_knight",
+	"WhiteBishop": "chess_piece/white_bishop",
+	"WhiteRook": "chess_piece/white_rook",
+	"WhiteQueen": "chess_piece/white_queen",
+	"WhiteKing": "chess_piece/white_king"
+}
